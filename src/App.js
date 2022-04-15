@@ -62,7 +62,6 @@ function App() {
           <ul>
             <li>
               <a href="#" target="_blank">
-                {/* <img fill='red' stroke='green' alt="discordLogo" src={discord} /> */}
                 <DiscordLogo style={{width: "1.5em"}} />
               </a>
             </li>
